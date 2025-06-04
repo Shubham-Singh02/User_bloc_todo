@@ -22,16 +22,21 @@ Users can also create new posts locally, and the app handles loading states, err
 - ✅ Error handling with user-friendly messages
 - ✅ Clean architecture and BLoC-based state management
 
-- ## 🖼️ App Visuals
+<h2>🖼️ App Visuals</h2>
 
-### 🔹 Home Screen
-![Home Screen](user_bloc_todo/assets/Visuals/Screenshot_20250604_145202.jpg)
+<table>
+  <tr>
+    <th>Home Screen</th>
+    <th>User Profile</th>
+    <th>Todo List</th>
+  </tr>
+  <tr>
+    <td><img src="user_bloc_todo/assets/Visuals/Screenshot_20250604_145202.jpg" width="200"/></td>
+    <td><img src="user_bloc_todo/assets/Visuals/Screenshot_20250604_145209.jpg" width="200"/></td>
+    <td><img src="user_bloc_todo/assets/Visuals/Screenshot_20250604_145216.jpg" width="200"/></td>
+  </tr>
+</table>
 
-### 🔹 User Profile
-![User Profile](user_bloc_todo/assets/Visuals/Screenshot_20250604_145209.jpg)
-
-### 🔹 Todo List
-![Todo List](user_bloc_todo/assets/Visuals/Screenshot_20250604_145216.jpg)
 
 
 ## Tech Stack
