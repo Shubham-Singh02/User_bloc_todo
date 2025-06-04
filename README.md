@@ -25,13 +25,13 @@ Users can also create new posts locally, and the app handles loading states, err
 - ## 🖼️ App Visuals
 
 ### 🔹 Home Screen
-![Home Screen](assets/Visuals/Screenshot_20250604_145202.jpg)
+![Home Screen](user_bloc_todo/assets/Visuals/Screenshot_20250604_145202.jpg)
 
 ### 🔹 User Profile
-![User Profile](assets/Visuals/Screenshot_20250604_145209.jpg)
+![User Profile](user_bloc_todo/assets/Visuals/Screenshot_20250604_145209.jpg)
 
 ### 🔹 Todo List
-![Todo List](assets/Visuals/Screenshot_20250604_145216.jpg)
+![Todo List](user_bloc_todo/assets/Visuals/Screenshot_20250604_145216.jpg)
 
 
 ## Tech Stack
