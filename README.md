@@ -22,6 +22,18 @@ Users can also create new posts locally, and the app handles loading states, err
 - ✅ Error handling with user-friendly messages
 - ✅ Clean architecture and BLoC-based state management
 
+- ## 🖼️ App Visuals
+
+### 🔹 Home Screen
+![Home Screen](assets/Visuals/Screenshot_20250604_145202.jpg)
+
+### 🔹 User Profile
+![User Profile](assets/Visuals/Screenshot_20250604_145209.jpg)
+
+### 🔹 Todo List
+![Todo List](assets/Visuals/Screenshot_20250604_145216.jpg)
+
+
 ## Tech Stack
 
 - **Flutter**
